@@ -33,12 +33,13 @@
 
 ## 📌 Featured Projects
 
-| 💼 Project                         | 📝 Description                                                                                    | 🧰 Tools                     |
+| 💼 Project                         | 📝 Description                                                                                    | 🧰 Tools & Concepts                  |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------- |
-| 📦 [**Inventory Management System**](https://github.com/MGmahmoud/Inventory-Management-System) | A full BI solution for a growing warehouse: data entry, invoice tracking, dashboards & automation | SQL Server, Excel, Power BI  |
-| 📊 [**Customer Churn Dashboard**](https://github.com/MGmahmoud/Customer-Churn-Dashboard)       | Segmentation & churn insights with visual storytelling                                            | Power BI, Excel              |
+
+| 📦 [**SQL-Data-Warehouse-Project**](https://github.com/MGmahmoud/SQL-Data-Warehouse-Project) | A full data engineering project including desgining and emplyment of modern data warhouse using medalian archetecture | SQL Server, Data Warhouse, ETL Pipelines |
+| 📊 [**ITI-Graduation-Project **](https://github.com/MGmahmoud/ITI-Graduation-Project)       | End-to-end: Busisness Intelligence solution for examination system from database development, data warhouse and ETL Pipelines to Dashboards Designs & Insights                                            | SQL Server, Databases, Data Warhouse, ETL Piplelines, Power BI & Data Analysis & Visualization|
 | 👩‍💼 [**IBM Employee Attrition**](https://github.com/MGmahmoud/IBM-Employee-Attrition-Analysis) | EDA & ML models to uncover attrition drivers                                                      | Python, Pandas, Scikit-learn |
-| 🛍️ [**Olist E-commerce Pipeline**](https://github.com/MGmahmoud/Olist-Ecommerce-ETL-BI)        | End-to-end: SQL, ETL & BI on Brazilian e-commerce data                                            | SQL Server, Python, Power BI |
+
 
 ---
 
