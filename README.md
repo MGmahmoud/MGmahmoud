@@ -1,101 +1,27 @@
-Wonderful, Mahmoud! 🎨 Let’s carve your digital signature in code and creativity.
+# 💫 About Me:
+A Junior Data Analyst with hands-on experience in Designing and developing Databases data warehouses and ETL Pipelines in addition to conducting Data Mining and Exploratory Data Analysis ,My toolbox includes SQL, python, and Power BI actually i am a Microsoft certified data analyst using power bi
 
-Here’s a ready-to-use `README.md` file for your GitHub profile portfolio. All you have to do is **create a new repository** named exactly `mahmoudelhelaly` (your GitHub username), and paste the content below in the `README.md` file.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahmoud--elhelaly/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Mahmoud64539771) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@mahmoudelhelaly3522) 
 
-### ✅ Generated `README.md`:
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MGmahmoud&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MGmahmoud&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MGmahmoud&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-````markdown
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E76A8&height=200&section=header&text=Mahmoud%20Elhelaly&fontSize=40&fontColor=ffffff" alt="banner"/>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MGmahmoud&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h1 align="center">👋 Hello, I'm Mahmoud Elhelaly</h1>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="center">🎯 Data Analyst | 📊 Power BI Specialist | 🚀 Future Data Scientist</h3>
-
----
-
-### 🔍 About Me
-
-I'm a structured thinker and problem-solver who turns raw data into real impact.
-
-💡 From managing a family warehouse to building full Business Intelligence systems,  
-📈 I believe that **data + curiosity = business transformation**.
-
-💬 I speak fluent Excel, Python, and Power BI, and I'm currently leveling up in Data Science.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MGmahmoud&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=MGmahmoud&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🧰 Skills & Tools
-
-```txt
-Languages:       Python, SQL, DAX, M
-Analytics:       Power BI, Excel, Pandas, Scikit-learn, Matplotlib, Seaborn
-Data Systems:    SQL Server, MySQL, ETL, Data Warehousing
-Other Tools:     Git, Jupyter, VSCode, GitHub Projects
-````
-
----
-
-### 🌟 Featured Projects
-
-| Project                                                             | Description                                                           | Tools                        |
-| ------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------------- |
-| [📦 Inventory Management System](https://github.com/your-link-here) | A full BI system for a warehouse (data entry, dashboards, automation) | SQL Server, Excel, Power BI  |
-| [📊 Customer Churn Dashboard](https://github.com/your-link-here)    | Customer segmentation & churn insights with Power BI                  | Power BI, Excel              |
-| [👩‍💼 IBM Employee Attrition](https://github.com/your-link-here)   | EDA + ML to analyze attrition factors                                 | Python, Pandas, ML           |
-| [🛍️ Olist E-commerce Pipeline](https://github.com/your-link-here)  | SQL + ETL + BI for Brazilian e-commerce data                          | SQL Server, Power BI, Python |
-
----
-
-### 🎯 2025 Goals
-
-* [x] Complete BI lifecycle project
-* [x] Start ML journey with Python
-* [ ] Build a cloud-based data pipeline
-* [ ] Publish my portfolio website
-* [ ] Collaborate on open-source or freelance gigs
-
----
-
-### 📬 Connect With Me
-
-* 📧 Email: [elhelalymahmoud001@gmail.com](mailto:elhelalymahmoud001@gmail.com)
-* 💼 LinkedIn: [Mahmoud Elhelaly](https://www.linkedin.com/in/your-link-here)
-* 🌍 Portfolio Website: Coming Soon! 🚧
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahmoudelhelaly&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudelhelaly&show_icons=true&theme=default" alt="Mahmoud's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudelhelaly&layout=compact" alt="Top Languages" />
-</p>
-```
-
----
-
-### 🚀 Final Touch
-
-Replace these placeholders:
-
-* `https://github.com/your-link-here` → with actual repo links.
-* `https://www.linkedin.com/in/your-link-here` → with your LinkedIn profile.
-* Portfolio link (when ready) — let me know and I’ll update the file.
-
-Would you like me to:
-
-* Save this as a downloadable `.md` file?
-* Create a dark-themed version?
-* Or even generate matching `README.md` files for each of your featured projects?
-
-Just say the word — your GitHub will be your digital throne. 👑💻
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
