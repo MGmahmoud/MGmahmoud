@@ -33,13 +33,11 @@
 
 ## 📌 Featured Projects
 
-| 💼 Project                         | 📝 Description                                                                                    | 🧰 Tools & Concepts                  |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------- |
-
-| 📦 [**SQL-Data-Warehouse-Project**](https://github.com/MGmahmoud/SQL-Data-Warehouse-Project) | A full data engineering project including desgining and emplyment of modern data warhouse using medalian archetecture | SQL Server, Data Warhouse, ETL Pipelines |
-| 📊 [**ITI-Graduation-Project **](https://github.com/MGmahmoud/ITI-Graduation-Project)       | End-to-end: Busisness Intelligence solution for examination system from database development, data warhouse and ETL Pipelines to Dashboards Designs & Insights                                            | SQL Server, Databases, Data Warhouse, ETL Piplelines, Power BI & Data Analysis & Visualization|
-| 👩‍💼 [**IBM Employee Attrition**](https://github.com/MGmahmoud/IBM-Employee-Attrition-Analysis) | EDA & ML models to uncover attrition drivers                                                      | Python, Pandas, Scikit-learn |
-
+| 💼 Project | 📝 Description | 🧰 Tools & Concepts |
+|-----------|----------------|--------------------|
+| 📦 [**SQL Data Warehouse Project**](https://github.com/MGmahmoud/SQL-Data-Warehouse-Project) | A full data engineering project, including the design and implementation of a modern data warehouse using the medallion architecture. | SQL Server, Data Warehouse, ETL Pipelines |
+| 📊 [**ITI Graduation Project**](https://github.com/MGmahmoud/ITI-Graduation-Project) | End-to-end Business Intelligence solution for an examination system, from database development and data warehousing to ETL pipelines, dashboards, and actionable insights. | SQL Server, Databases, Data Warehouse, ETL Pipelines, Power BI, Data Analysis, Data Visualization |
+| 👩‍💼 [**IBM Employee Attrition**](https://github.com/MGmahmoud/IBM-Employee-Attrition-Analysis) | EDA and machine learning models to uncover key drivers of employee attrition. | Python, Pandas, Scikit-learn |
 
 ---
 
