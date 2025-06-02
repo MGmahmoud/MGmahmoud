@@ -27,3 +27,12 @@ Languages:       Python, SQL, DAX, M
 Analytics:       Power BI, Excel, Pandas, Scikit-learn, Matplotlib, Seaborn
 Data Systems:    SQL Server, MySQL, ETL, Data Warehousing
 Other Tools:     Git, Jupyter, VSCode, GitHub Projects
+
+
+| Project                                                             | Description                                                           | Tools                        |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------------- |
+| [📦 Inventory Management System](https://github.com/your-link-here) | A full BI system for a warehouse (data entry, dashboards, automation) | SQL Server, Excel, Power BI  |
+| [📊 Customer Churn Dashboard](https://github.com/your-link-here)    | Customer segmentation & churn insights with Power BI                  | Power BI, Excel              |
+| [👩‍💼 IBM Employee Attrition](https://github.com/your-link-here)   | EDA + ML to analyze attrition factors                                 | Python, Pandas, ML           |
+| [🛍️ Olist E-commerce Pipeline](https://github.com/your-link-here)  | SQL + ETL + BI for Brazilian e-commerce data                          | SQL Server, Power BI, Python |
+
