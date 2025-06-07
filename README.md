@@ -1,8 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="
-      https://capsule-render.vercel.app/api?type=waving&color=0E76A8&height=200&section=header&text=Mahmoud%20Elhelaly&fontSize=40&fontColor=ffffff
-"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E76A8&height=200&section=header&text=Mahmoud%20Elhelaly&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <h1 align="center">👋 Hi there, I’m Mahmoud Elhelaly</h1>
