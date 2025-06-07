@@ -1,9 +1,54 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E76A8&height=200&section=header&text=Mahmoud%20Elhelaly&fontSize=40&fontColor=ffffff" alt="banner"/>
+  <img src="
+      <svg
+        width="854"
+        height="200"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        style="z-index:1;position:relative"
+        viewBox="0 0 854 200"
+      >
+        <style>
+      .text {   font-size: 40px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
+      .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
+    </style>
+        
+        
+      <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
+        <path d="" fill="#0E76A8" opacity="0.4" >
+          <animate
+              attributeName="d"
+              dur="20s"
+              repeatCount="indefinite"
+              keyTimes="0;0.333;0.667;1"
+              calcmod="spline"
+              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+              begin="0s"
+              values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z">
+          </animate>
+        </path>
+        <path d="" fill="#0E76A8" opacity="0.4" >
+          <animate
+            attributeName="d"
+            dur="20s"
+            repeatCount="indefinite"
+            keyTimes="0;0.333;0.667;1"
+            calcmod="spline"
+            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+            begin="-10s"
+            values="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z;M0 0L 0 150Q 213.5 120 427 120T 854 140L 854 0 Z;M0 0L 0 145Q 213.5 125 427 150T 854 165L 854 0 Z;M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z">
+          </animate>
+        </path>
+      </g>
+         <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >Mahmoud Elhelaly</text>
+        
+      </svg>
+    ![api](https://github.com/user-attachments/assets/75bf8d72-37bd-4d75-b232-3cc4a0ba4a36)
+"/>
 </p>
 
-<h1 align="center">👋 Hey there, I’m Mahmoud Elhelaly</h1>
+<h1 align="center">👋 Hi there, I’m Mahmoud Elhelaly</h1>
 <h3 align="center">Data Analyst 📊 | BI Developer 📈 | Future Data Scientist 🤖</h3>
 
 ---
