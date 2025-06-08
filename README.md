@@ -35,7 +35,7 @@
 
 | 💼 Project                      | 📝 Description | 🧰 Tools & Concepts |
 |---------------------------------|----------------|--------------------|
-| 📦 [**SQL Data Warehouse and Analytics Project**](https://github.com/MGmahmoud/SQL-Data-Warehouse-Project) | End-to-end data engineering project featuring a modern Data Warehouse built with the Medallion Architecture. Includes full ETL pipelines, star schema modeling, and advanced analytics reports with KPIs like product segmentation, recency, and monthly revenue trends. | SQL Server, Data Warehouse, ETL Pipelines, Advanced SQL |
+| 📦 [**SQL Data Warehouse and Analytics Project**](https://github.com/MGmahmoud/SQL-Data-Warehouse-Project) | End-to-end data engineering project featuring a modern Data Warehouse built with the Medallion Architecture. Includes full ETL pipelines, star schema modeling, and advanced analytics reports.| SQL Server, Data Warehouse, ETL Pipelines, Advanced SQL |
 | 📊 [**ITI Graduation Project**](https://github.com/MGmahmoud/ITI-Graduation-Project) | End-to-end Business Intelligence solution for an examination system, from database development and data warehousing to ETL pipelines, dashboards, and actionable insights. | SQL Server, Databases, Data Warehouse, ETL Pipelines, Power BI, Data Analysis, Data Visualization |
 | 👩‍💼 [**IBM Employee Attrition**](https://github.com/MGmahmoud/Data-Analysis-Visualization-Projects/tree/main/Python/01-IBM-Employee-Attrition-EDA) | EDA and machine learning models to uncover key drivers of employee attrition. | Python, Pandas, Scikit-learn |
 
