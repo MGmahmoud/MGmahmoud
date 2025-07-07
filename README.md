@@ -45,12 +45,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGmahmoud&theme=dark&hide_border=false&layout=compact)
 
----
-
-## 👣 Visitor Counter
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/MGmahmoud/count.svg" alt="visitor counter"/>
-</p>
-
----
