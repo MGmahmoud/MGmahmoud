@@ -17,7 +17,7 @@
 - Conducting **Exploratory Data Analysis (EDA)** & **Data Mining**
 - Crafting powerful dashboards with **Power BI** (Microsoft Certified!)
 
-🧰 My toolbox includes **SQL**, **Python**, and **Power BI** — all geared toward helping businesses make smarter, data-driven decisions.
+🧰 My toolbox includes **SQL**, **Python**, and **Power BI** - all geared toward helping businesses make smarter, data-driven decisions.
 
 🚀 Currently expanding into **Data Engineering**.
 
